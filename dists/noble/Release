@@ -1,0 +1,33 @@
+Architectures: amd64
+Codename: noble
+Components: main restricted universe multiverse
+Date: Thu, 08 Jan 2026 18:48:11 +0000
+Description: Last updated: Thu, 08 Jan 2026 18:48:11 +0000
+Label: Debian
+Origin: Debian
+Suite: noble
+Version: "22.3"
+MD5Sum:
+ 4bd89ee8251121fbb98043f3d616266c              240 Release
+ c2e6fd41ca9277aee92ebccfdce114a5             1083 contrib/binary-amd64/Packages
+ 5fe7b9b3746f6b1539c0775300481d26              714 contrib/binary-amd64/Packages.gz
+ 0ef5f33215152cd39b0a6753ccf53418           971908 main/binary-amd64/Packages
+ 2724c097968636920952a4ae1a6cde86           280345 main/binary-amd64/Packages.gz
+SHA1:
+ ede648b9ab414f6e4826778900e19cafb2dca9bb              240 Release
+ e17c566b064608be9c4a4054dcf5a8e456d29592             1083 contrib/binary-amd64/Packages
+ dd00aa77b4cdefd71dd4c131e37500729e13e059              714 contrib/binary-amd64/Packages.gz
+ 65febef7d03fbbee0c8b8f7f7fb110587eec9433           971908 main/binary-amd64/Packages
+ 64d1dfbc3bc8c7d20d2fc46622e691016a0d5f43           280345 main/binary-amd64/Packages.gz
+SHA256:
+ 013eecb13a2875c6cdcae22485a7c5bfc94e34f72a77881f33b4e7077d3ce51e              240 Release
+ df9d65aad5571d089b41f64dccf322978c07b1e5886ec2baa7e923d488c83df3             1083 contrib/binary-amd64/Packages
+ b87418b964651e7ec53809c7e92eae78a63f706c3294eed78cd0799d60e925c4              714 contrib/binary-amd64/Packages.gz
+ a39555a9fca5646abbd1f2d9745088628c885db9cbe96f5ec1da38f1bd35ed30           971908 main/binary-amd64/Packages
+ 52673ff7f97111085ee9468e525cea08fc243de962409f834189204e68376717           280345 main/binary-amd64/Packages.gz
+SHA512:
+ 8aa12b8c9dfc49b2795f9943d5684476c533815006ddfcecb7ff39ab81ee51a1ec6e1e49e75010e01f0ea3b4be0c69e6752cec41b56810c5f09d8b534ae4e35f              240 Release
+ 8c54afa8b73ae1330a9abde2908989b0e480f7eb97d023178a55f35f4d8f05fc0052b0859c7a2b1e144ba325428010ac93ccf83b290f1b7eff06ff1cd1b8316a             1083 contrib/binary-amd64/Packages
+ 030ac166068fe924f2a8aea29a4bc92f3d47d4b3f208273a5bc7e7b50a00190efaf6f49fa432c777d4a1ca1dbff4cdacdda76c3f938f209b9c982044cce7779a              714 contrib/binary-amd64/Packages.gz
+ 7705d37cf1f0b4eec3e8995118c05b9138c66eae5c63f545b7d32028f98099754e48e58e7d313e6366625e57d3fcf1309b5d190dcd976d1236677e4a4cfa30de           971908 main/binary-amd64/Packages
+ 8699c4c00ddf139755900fa99ac2a7be5e896a1d828285610854b8c18e51f3db195f9df9d83b165fdf1dc9b99c238b3da500c258a5304b1ec137248d02068228           280345 main/binary-amd64/Packages.gz
